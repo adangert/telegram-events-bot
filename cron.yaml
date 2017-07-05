@@ -1,0 +1,4 @@
+cron:
+- description: hourly pin update
+  url: /updatepin
+  schedule: every 2 hours
